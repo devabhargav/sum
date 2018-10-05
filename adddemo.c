@@ -12,5 +12,5 @@ printf("sum is %d",sum);
 int add(int a,int b)
 {
 sum=a+b;
-return 0;
+return sum;
 }
